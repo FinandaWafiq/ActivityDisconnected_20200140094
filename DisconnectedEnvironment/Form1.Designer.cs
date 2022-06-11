@@ -418,7 +418,7 @@ namespace DisconnectedEnvironment
             this.Controls.Add(this.bindingNavigator1);
             this.Controls.Add(this.cmdAdd);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Employee Details";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bindingNavigator1)).EndInit();
             this.bindingNavigator1.ResumeLayout(false);
